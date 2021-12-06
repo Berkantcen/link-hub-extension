@@ -1,0 +1,17 @@
+{
+  "name": "Thetabetaplays Link Hub",
+  "description": "A Link hub to reach Thetabetaplays Content ",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icon_16.png",
+    "32": "icon_32.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+  },
+
+  "action": {
+    "default_icon": "icon_16.png",
+    "default_popup": "popup.html"
+  }
+}
